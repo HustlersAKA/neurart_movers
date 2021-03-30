@@ -1,2 +1,2 @@
-# neurart_movers
-a web app that can style videos
+# fast_video_style_transfer
+a web app made to style videos using style images.
